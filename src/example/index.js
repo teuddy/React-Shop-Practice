@@ -4,7 +4,4 @@ import Carousel from '../Components/Carousel';
 import slides from './slides';
 const container = document.createElement('div');
 document.body.appendChild(container);
-ReactDom.render(
-  <Carousel slides={slides} onIndexChange={'onIndexChange'} />,
-  container,
-);
+ReactDom.render(<Carousel slides={slides} />, container);
