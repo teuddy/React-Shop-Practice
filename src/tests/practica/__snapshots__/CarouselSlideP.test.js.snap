@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CarouselSlideP/> no cambia 1`] = `
+<figure
+  style={
+    Object {
+      "height": "300px",
+      "width": "95%",
+    }
+  }
+>
+  <img
+    src="https://4.img-dpreview.com/files/p/E~TS590x0~articles/3925134721/0266554465.jpeg"
+    style={
+      Object {
+        "height": "100%",
+        "objectFit": "cover",
+        "width": "100%",
+      }
+    }
+  />
+</figure>
+`;
